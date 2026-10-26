@@ -32,7 +32,7 @@ A real-time chat application that enables seamless one-to-one communication with
 
 1. Clone the repository
    
-    - git clone https://github.com/BishtNeeraj0/Chat-Application.git
+    - git clone https://github.com/Aditya-3029/Realtime-Chat-Application.git
 
     - cd Chat-Application
 
